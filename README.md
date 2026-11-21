@@ -4,10 +4,13 @@ En resumen, este proyecto busca descubrir en qué etapa de la compra MercadoLibr
 
 ## Visuales
 
+<img width="1392" height="86" alt="image" src="https://github.com/user-attachments/assets/95dc9810-77fa-4669-81d2-0169f452dcdc" />
 Solo el 1.25% de los usuarios que entran por primera vez termina comprando, y la mayor fuga está entre seleccionar un producto y agregarlo al carrito
 
+<img width="1785" height="315" alt="image" src="https://github.com/user-attachments/assets/1e3eea8d-1e67-40c5-b2a3-0a581d6be09c" />
 La pérdida entre seleccionar y agregar al carrito va del 72% al 88% según el país
 
+<img width="776" height="290" alt="image" src="https://github.com/user-attachments/assets/58c5a81f-0858-4ee7-9b8f-2585f4fa9734" />
 La retención cae de 86.6% en D7 a 2.6% en D28 de forma muy parecida en todas las cohortes
 
 ## Desafío
